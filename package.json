@@ -1,0 +1,20 @@
+{
+  "name": "@xpr/12ft",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziv/12ft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziv/12ft/issues"
+  },
+  "homepage": "https://github.com/ziv/12ft#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.0.174",
+    "@types/webextension-polyfill": "^0.8.2"
+  }
+}
