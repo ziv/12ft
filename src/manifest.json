@@ -19,5 +19,13 @@
     "scripts": [
       "scripts/bg.js"
     ]
+  },
+  "commands": {
+    "_cmd_openIn12ft": {
+      "suggested_key": {
+        "default": "Alt+Shift+P"
+      },
+      "description": "Open the page on 12ft.io"
+    }
   }
 }
